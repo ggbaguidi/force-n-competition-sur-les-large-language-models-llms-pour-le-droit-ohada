@@ -1,0 +1,40 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2025-04-11T02:11:48+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 58689,
+      "description": "C'est un exemple de ce à quoi votre fichier de soumission devrait ressembler. L'ordre des lignes n'a pas d'importance, mais les noms des \"ID\" doivent être corrects.  Is an example of what your submission file should look like. The order of the rows does not matter, but the names of the \"ID\" must be correct.",
+      "created_at": "2025-04-04 12:44:47 UTC",
+      "updated_at": "2025-04-04 12:44:47 UTC"
+    },
+    {
+      "filename": "Data.zip",
+      "filesize": 14169445,
+      "description": "Ce sont les fichiers que vous utiliserez pour entraîner votre RAG. These are the files you will use to train your RAG.",
+      "created_at": "2025-04-04 12:44:47 UTC",
+      "updated_at": "2025-04-04 12:44:47 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 100525,
+      "description": " Test contient l'identifiant de la question et la question. C'est le jeu de données sur lequel vous appliquerez votre modèle. Test contains the question ID and the question. This is the dataset on which you will apply your model to.",
+      "created_at": "2025-04-04 12:44:47 UTC",
+      "updated_at": "2025-04-04 12:44:47 UTC"
+    },
+    {
+      "filename": "StarterNotebook_LLM_Challenge.ipynb",
+      "filesize": 554894,
+      "description": "Voici un notebook de démarrage pour vous aider à faire votre première soumission.",
+      "created_at": "2025-04-10 10:42:26 UTC",
+      "updated_at": "2025-04-10 10:42:29 UTC"
+    }
+  ]
+}
